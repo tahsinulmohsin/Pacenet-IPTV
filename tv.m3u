@@ -1,25 +1,16 @@
 #EXTM3U
-
-#EXTINF:-1,Channel 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png", Sports 18
 http://10.98.99.150:8081/hls/1.m3u8
 
-#EXTINF:-1,Channel 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1
 http://10.98.99.150:8081/hls/2.m3u8
 
-#EXTINF:-1,Channel 3
-http://10.98.99.150:8081/hls/3.m3u8
-
-#EXTINF:-1,Channel 4
-http://10.98.99.150:8081/hls/4.m3u8
-
-#EXTINF:-1,Channel 5
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png", GTV
 http://10.98.99.150:8081/hls/5.m3u8
 
-#EXTINF:-1,Channel 6
-http://10.98.99.150:8081/hls/6.m3u8
+#EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports
+http://10.98.99.150:8081/hls/4.m3u8
 
-#EXTINF:-1,Channel 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports
 http://10.98.99.150:8081/hls/7.m3u8
 
-#EXTINF:-1,Channel 8
-http://10.98.99.150:8081/hls/8.m3u8
