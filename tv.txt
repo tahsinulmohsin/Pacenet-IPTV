@@ -31,6 +31,6 @@ http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports
 http://10.98.99.150:8081/hls/7.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", Star Sports
+#EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", 
 http://12.1.1.1:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 
