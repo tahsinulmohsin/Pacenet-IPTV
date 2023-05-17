@@ -11,6 +11,26 @@ http://10.98.99.150:8081/hls/5.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports
 http://10.98.99.150:8081/hls/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1
+http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-2-logo-300x300.jpg", Star Sports 2
+http://12.1.1.1:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-1-logo-300x300.jpg", Star Sports Select 1
+http://12.1.1.1:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-2-logo-300x300.jpg", Star Sports Select 2
+http://12.1.1.1:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://discovery-assets-production.s3.eu-west-1.amazonaws.com/app/uploads/2020/11/03121503/facebook-copy.jpg", Discovery
+http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports
 http://10.98.99.150:8081/hls/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", Star Sports
+http://12.1.1.1:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 
