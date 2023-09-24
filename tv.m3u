@@ -11,6 +11,9 @@ http://10.98.99.150:8081/hls/5.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports
 http://10.98.99.150:8081/hls/4.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports 1080P
+https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1080&res=1080
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1
 http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
 
