@@ -1,39 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png", Sports 18
-http://10.98.99.150:8081/hls/1.m3u8
+http://test-otv2.ftpbd.net/streams/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1
-http://10.98.99.150:8081/hls/2.m3u8
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png", GTV
-http://10.98.99.150:8081/hls/5.m3u8
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports
-http://10.98.99.150:8081/hls/4.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports 1080P
 https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1080&res=1080
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1
-http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-2-logo-300x300.jpg", Star Sports 2
-http://12.1.1.1:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
+http://test-otv2.ftpbd.net/streams/121/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-1-logo-300x300.jpg", Star Sports Select 1
-http://12.1.1.1:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+http://test-otv2.ftpbd.net/streams/116/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-2-logo-300x300.jpg", Star Sports Select 2
-http://12.1.1.1:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+http://test-otv2.ftpbd.net/streams/125/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/340025563_930796974635144_6215420305586110901_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHqTbNZ_iyc9fJTy6AQa5CcvKBgZrhNsxm8oGBmuE2zGWVbhlotMUkkhc0CaYbzNeGC3HZRqWkt3SIa3wL63o-N&_nc_ohc=OmloMDp3CSwAX9AaIIo&_nc_ht=scontent.fdac110-1.fna&oh=00_AfAbjUDfbfhGXNNb9R1rkyPtsuEqG1b5wCoyf16CAFvHuQ&oe=653B7D2A", NICK HD+
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/Nick_HD_Plus_voot_MOB-audio_98835_eng=98800-video=1173600.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://discovery-assets-production.s3.eu-west-1.amazonaws.com/app/uploads/2020/11/03121503/facebook-copy.jpg", Discovery
-http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports
-http://10.98.99.150:8081/hls/7.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", National Geographic Wil
-http://12.1.1.1:8082/Nat-Geo/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png", PTV Sports
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8
