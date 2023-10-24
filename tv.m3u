@@ -6,7 +6,7 @@ http://test-otv2.ftpbd.net/streams/107/index.m3u8
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png", GTV
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698136976~exp=1698180176~acl=/*~data=45.61.146.183-WEB~hmac=c72a8789db99396d1d89f65de3d4387f4d56932758832e7e1ee9de47beb0d67d
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports
 https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1698136673~exp=1698179873~acl=/*~data=45.61.146.183-WEB~hmac=09ae3736448ec24f7407ba1ca74fe3e454fb8b69f5f6a60632bd26bee8410bf8
