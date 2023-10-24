@@ -9,7 +9,7 @@ http://test-otv2.ftpbd.net/streams/110/index.m3u8
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1698136673~exp=1698179873~acl=/*~data=45.61.146.183-WEB~hmac=09ae3736448ec24f7407ba1ca74fe3e454fb8b69f5f6a60632bd26bee8410bf8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports 1080P
 https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1080&res=1080
