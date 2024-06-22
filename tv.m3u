@@ -1,15 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png", Sports 18
-http://test-otv2.ftpbd.net/streams/107/index.m3u8
+https://mprod-cdn.toffeelive.com/live/match-1/master_1300.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1
-http://test-otv2.ftpbd.net/streams/110/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png", GTV
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1698136976~exp=1698180176~acl=/*~data=45.61.146.183-WEB~hmac=c72a8789db99396d1d89f65de3d4387f4d56932758832e7e1ee9de47beb0d67d
+https://mprod-cdn.toffeelive.com/live/match-2/master_1300.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports
-https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1698136673~exp=1698179873~acl=/*~data=45.61.146.183-WEB~hmac=09ae3736448ec24f7407ba1ca74fe3e454fb8b69f5f6a60632bd26bee8410bf8
+https://mprod-cdn.toffeelive.com/live/match-3/master_1300.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports LIVE ONLY
 http://test-otv2.ftpbd.net/streams/115/index.m3u8
