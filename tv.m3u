@@ -1,33 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png", Sports 18
-https://mprod-cdn.toffeelive.com/live/match-1/master_1300.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1
-https://mprod-cdn.toffeelive.com/live/match-2/master_1300.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports
-https://mprod-cdn.toffeelive.com/live/match-3/master_1300.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", T-Sports LIVE ONLY
-http://test-otv2.ftpbd.net/streams/115/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1
-http://test-otv2.ftpbd.net/streams/110/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-2-logo-300x300.jpg", Star Sports 2
-http://test-otv2.ftpbd.net/streams/121/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-1-logo-300x300.jpg", Star Sports Select 1
-http://test-otv2.ftpbd.net/streams/116/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-2-logo-300x300.jpg", Star Sports Select 2
-http://test-otv2.ftpbd.net/streams/125/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/340025563_930796974635144_6215420305586110901_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHqTbNZ_iyc9fJTy6AQa5CcvKBgZrhNsxm8oGBmuE2zGWVbhlotMUkkhc0CaYbzNeGC3HZRqWkt3SIa3wL63o-N&_nc_ohc=OmloMDp3CSwAX9AaIIo&_nc_ht=scontent.fdac110-1.fna&oh=00_AfAbjUDfbfhGXNNb9R1rkyPtsuEqG1b5wCoyf16CAFvHuQ&oe=653B7D2A", NICK HD+
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/Nick_HD_Plus_voot_MOB-audio_98835_eng=98800-video=1173600.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png", PTV Sports
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1698136846~exp=1698180046~acl=/*~data=45.61.146.183-WEB~hmac=2ccd6b61f8e4def0be8a55afa19863d4a6dfd1a35e38917cc968a8d52268d833
+#EXTINF:-1 tvg-name="Anandatv" tvg-id="local_out/anandatv" tvg-logo="http://example.com/logos/anandatv.png",Anandatv
+http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Bijoytv" tvg-id="local_out/bijoytv" tvg-logo="http://example.com/logos/bijoytv.png",Bijoytv
+http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Greentv" tvg-id="local_out/greentv" tvg-logo="http://example.com/logos/greentv.png",Greentv
+http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Asiantv" tvg-id="local_out/asiantv" tvg-logo="http://example.com/logos/asiantv.png",Asiantv
+http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Atnbangla" tvg-id="local_out/atnbangla" tvg-logo="http://example.com/logos/atnbangla.png",Atnbangla
+http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Atnnews" tvg-id="local_out/atnnews" tvg-logo="http://example.com/logos/atnnews.png",Atnnews
+http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Banglatv" tvg-id="local_out/banglatv" tvg-logo="http://example.com/logos/banglatv.png",Banglatv
+http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Banglavision" tvg-id="local_out/banglavision" tvg-logo="http://example.com/logos/banglavision.png",Banglavision
+http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Btv" tvg-id="local_out/btv" tvg-logo="http://example.com/logos/btv.png",Btv
+http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Channel24" tvg-id="local_out/channel24" tvg-logo="http://example.com/logos/channel24.png",Channel24
+http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Channel9" tvg-id="local_out/channel9" tvg-logo="http://example.com/logos/channel9.png",Channel9
+http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Channeli" tvg-id="local_out/channeli" tvg-logo="http://example.com/logos/channeli.png",Channeli
+http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Colorsbanglahd" tvg-id="local_out/colorsbanglahd" tvg-logo="http://example.com/logos/colorsbanglahd.png",Colorsbanglahd
+http://103.163.247.39/local_out/colorsbanglahd/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Dbcnews" tvg-id="local_out/dbcnews" tvg-logo="http://example.com/logos/dbcnews.png",Dbcnews
+http://103.163.247.39/local_out/dbcnews/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Deepto" tvg-id="local_out/deepto" tvg-logo="http://example.com/logos/deepto.png",Deepto
+http://103.163.247.39/local_out/deepto/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Deshtv" tvg-id="local_out/deshtv" tvg-logo="http://example.com/logos/deshtv.png",Deshtv
+http://103.163.247.39/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Duronto" tvg-id="local_out/duronto" tvg-logo="http://example.com/logos/duronto.png",Duronto
+http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Ekattortv" tvg-id="local_out/ekattortv" tvg-logo="http://example.com/logos/ekattortv.png",Ekattortv
+http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Ekhontv" tvg-id="local_out/ekhontv" tvg-logo="http://example.com/logos/ekhontv.png",Ekhontv
+http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Ekusheytv" tvg-id="local_out/ekusheytv" tvg-logo="http://example.com/logos/ekusheytv.png",Ekusheytv
+http://103.163.247.39/local_out/ekusheytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Gaanbangla" tvg-id="local_out/gaanbangla" tvg-logo="http://example.com/logos/gaanbangla.png",Gaanbangla
+http://103.163.247.39/local_out/gaanbangla/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Globaltv" tvg-id="local_out/globaltv" tvg-logo="http://example.com/logos/globaltv.png",Globaltv
+http://103.163.247.39/local_out/globaltv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Independenttv" tvg-id="local_out/independenttv" tvg-logo="http://example.com/logos/independenttv.png",Independenttv
+http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Jamunatv" tvg-id="local_out/jamunatv" tvg-logo="http://example.com/logos/jamunatv.png",Jamunatv
+http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Maasrangatv" tvg-id="local_out/maasrangatv" tvg-logo="http://example.com/logos/maasrangatv.png",Maasrangatv
+http://103.163.247.39/local_out/maasrangatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Madanitv" tvg-id="local_out/madanitv" tvg-logo="http://example.com/logos/madanitv.png",Madanitv
+http://103.163.247.39/local_out/madanitv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Mohona TV HD" tvg-id="local_out/mohonatv" tvg-logo="http://example.com/logos/mohonatv.png",Mohona TV HD
+http://103.163.247.39/local_out/mohonatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Mytv" tvg-id="local_out/mytv" tvg-logo="http://example.com/logos/mytv.png",Mytv
+http://103.163.247.39/local_out/mytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="News24bd" tvg-id="local_out/news24bd" tvg-logo="http://example.com/logos/news24bd.png",News24bd
+http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Nexustv" tvg-id="local_out/nexustv" tvg-logo="http://example.com/logos/nexustv.png",Nexustv
+http://103.163.247.39/local_out/nexustv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Ntv" tvg-id="local_out/ntv" tvg-logo="http://example.com/logos/ntv.png",Ntv
+http://103.163.247.39/local_out/ntv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Rtv" tvg-id="local_out/rtv" tvg-logo="http://example.com/logos/rtv.png",Rtv
+http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Boishakhi" tvg-id="local_out/boishakhi" tvg-logo="http://example.com/logos/boishakhi.png",Boishakhi
+http://103.163.247.39/local_out/boishakhi/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Satv" tvg-id="local_out/satv" tvg-logo="http://example.com/logos/satv.png",Satv
+http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Somoy TV" tvg-id="local_out/somoytv" tvg-logo="http://example.com/logos/somoytv.png",Somoy TV
+http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-name="Tsports" tvg-id="local_out/tsports" tvg-logo="http://example.com/logos/tsports.png",Tsports
+http://103.163.247.39/local_out/tsports/video.m3u8?token=At5F1MFZYnciB3
