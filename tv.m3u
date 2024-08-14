@@ -71,3 +71,6 @@ http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Tsports" tvg-id="local_out/tsports" tvg-logo="http://example.com/logos/tsports.png",Tsports
 http://103.163.247.39/local_out/tsports/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 tvg-name="TNT Sports - 1" tvg-id="local_out/tsports" tvg-logo="http://example.com/logos/tsports.png",TNT Sports
+https://vipgoodlive-tvs.starcdn.live/TNT_Sports_1/index.m3u8
