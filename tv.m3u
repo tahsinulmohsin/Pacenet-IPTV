@@ -30,7 +30,7 @@ http://103.163.247.39/local_out/colorsbanglahd/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/dbcnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Deepto" tvg-id="local_out/deepto" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/10599646091.png",Deepto
 http://103.163.247.39/local_out/deepto/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-name="Deshtv" tvg-id="local_out/deshtv" tvg-logo=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzl91SuRhZoNx15NOsr3P-bsnoqYI70wUkKg&s",Desh TV
+#EXTINF:-1 tvg-name="Deshtv" tvg-id="local_out/deshtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzl91SuRhZoNx15NOsr3P-bsnoqYI70wUkKg&s",Desh TV
 http://103.163.247.39/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Duronto" tvg-id="local_out/duronto" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/7ec1c6413f7d988bc964a6e7dfd65024.png",Duronto
 http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3
