@@ -71,5 +71,5 @@ http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Tsports" tvg-id="local_out/tsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T sports
 http://103.163.247.39/local_out/tsports/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-name="El Classico", La Liga
-https://a2uy.short.gy/RMA-V-FCB/TG@ZubayerOp_Official.m3u8
+#EXTINF:-1 tvg-name="El Classico", EL CLASSICO 27 OCT
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
